@@ -1,0 +1,13 @@
+inicio 26/12/17 11h34
+criar um site responsivo
+com o projeto ..cd/Day e baseado no https://www.zetrasoft.com.br/produtos-zetra/e-consig-sistema-de-margem-consignacao/
+solicitado por Rodrigo pelo skype
+
+
+27/12
+conversei com o Marcio sobre a MidiaConsig
+
+
+03/01/18
+Projeto entregue no seguinte link http://34.204.2.75/MidiaConsig
+para Marcio

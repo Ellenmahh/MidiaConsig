@@ -1,0 +1,18 @@
+ .dif{
+        display: inline;
+    }
+.selo{
+    width: 100px;
+    margin-left: 55px;
+}
+.logo{
+    width: 60px;
+    height: 70px;
+    margin-top: -30px;
+}
+.carousel-inner{
+    height: 250px;
+}
+.img-responsive, .thumbnail>img, .thumbnail a>img, .carousel-inner>.item>img, .carousel-inner>.item>a>img{
+    height: 250px;
+}
